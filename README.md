@@ -14,3 +14,4 @@ python  solver [input_sequence]
 example command:
 python solver.py 2,3,6,1,5,0,4,7,8
 
+the output generates three text files with all the nodes info, the nodes list and the node path to reach the goal
