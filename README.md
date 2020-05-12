@@ -1,6 +1,18 @@
-# enpm661_project1
-8 puzzle solver
+# Project - 8 puzzle solver
 
+<p align="center">
+<img src="images/8Puzzle.gif" alt="8puzzle" >
+</p>
+<p align="center">
+<em>8 Puzzle game</em>
+</p>
+
+<p align="center">
+<img src="images/fulltree_bfs.png" alt="bfs">
+</p>
+<p align="center">
+<em>BFS Tree Seaarch</em>
+</p>
 
 The coding is done in python3
 
