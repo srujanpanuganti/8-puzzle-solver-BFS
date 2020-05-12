@@ -1,7 +1,7 @@
 # Project - 8 puzzle solver
 
 <p align="center">
-<img src="images/8Puzzle.gif" alt="8puzzle" width="480" >
+<img src="images/8Puzzle.gif" alt="8puzzle" width="260" >
 </p>
 <p align="center">
 <em>8 Puzzle game</em>
