@@ -23,11 +23,12 @@ The script uses the Brute Force Search Algorithm to find the Goal
 </p>
 
 ## Execution
-
 Open the terminal and move to the folder where the solver.py is located. Give the command as following:
+
 `python  solver [input_sequence]`
 
 example command:
+
 `python3 solver.py 2,3,6,1,5,0,4,7,8`
 
 ## Results
