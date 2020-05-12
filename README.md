@@ -7,6 +7,11 @@
 <em>8 Puzzle game</em>
 </p>
 
+## Dependencies
+python 3.5
+numpy
+argparse
+
 <p align="center">
 <img src="images/fulltree_bfs.png" alt="bfs">
 </p>
@@ -14,11 +19,7 @@
 <em>BFS Tree Seaarch</em>
 </p>
 
-The coding is done in python3
-
-Inorder to execute this file following packages are needed: numpy, argparse
-
-To run the file:
+## Execution
 
 Open the terminal and move to the folder where the solveer.py is located. Give the command as following:
 python  solver [input_sequence]
